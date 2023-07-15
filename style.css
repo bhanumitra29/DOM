@@ -1,0 +1,114 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #281414;
+}
+
+
+.playagainp{
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+}
+
+#playagain{
+    background-color: #EEEEEE;
+    color: #222222;
+    padding: 20px 30px 20px 30px;
+    font-size: large;
+}
+
+#betweenp{
+    position: relative;
+    top: -5rem;
+    left: 79rem;
+}
+
+#between{
+    color: #EEEEEE;
+    font-size: xx-large;
+}
+
+#numbertextp{
+    position: relative;
+    top: -1rem;
+    left: 40rem;
+}
+
+#numbertext{
+    color: #EEEEEE;
+    font-size: xx-large;
+}
+
+#hrlinep{
+    position: relative;
+    top: -6rem;
+    z-index: 1;
+}
+
+#hrline{
+    height: 5px;
+    background-color: #EEEEEE;
+
+}
+
+#box{
+    height: 120px;
+    width: 120px;
+    background-color: #EEEEEE;
+    text-align: center;
+    
+    position: relative;
+    top: -1rem;
+    left: 45rem;
+    z-index: 2;
+    
+}
+
+#ques{
+    padding: 2rem;
+}
+
+#textchange{
+    color: #EEEEEE;
+    font-size: xx-large;
+    position: relative;
+    top: -8rem;
+    left: 60rem;
+}
+
+#parentchan{
+    position: relative;
+    top: -8rem;
+    left: 60rem;
+}
+
+.common{
+    color: #EEEEEE;
+    font-size: larger;
+}
+
+#button{
+    height: 70px;
+    width: 150px;
+    font-size: x-large;
+    position: relative;
+    top: 8rem;
+    left: 2rem;
+}
+
+#input{
+    background-color: #281414;
+    border: 4px double #EEEEEE;
+    /* outline: 2px solid #EEEEEE; */
+    border-radius: 3px;
+  
+    color: #EEEEEE;
+    font-size: xx-large;
+    text-align: center;
+    height: 100px;
+    width: 250px;
+    position: relative;
+    top: 1rem;
+    left: 15rem;
+}
